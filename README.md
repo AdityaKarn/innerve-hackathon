@@ -19,20 +19,20 @@ Object detection is done through a standard implementation of the YOLO algorithm
 1. 
 2. CNN lane detection :
   
-  Add validation values from dataset_labeller/val_labels to your google drive
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Add validation values from dataset_labeller/val_labels to your google drive
   
-  run Untitled10.py in google colab
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run Untitled10.py in google colab
   
-  Remember to upload model_1.h5 to your runspace (can be found in the respective folder)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Remember to upload model_1.h5 to your runspace (can be found in the respective folder)
   
   
 3. YOLO implementation
   
-  Download weights from [here](https://pjreddie.com/media/files/yolov3.weights)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Download weights from [here](https://pjreddie.com/media/files/yolov3.weights)
   
-  Add images to your gdrive/val2017/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Add images to your gdrive/val2017/
   
-  Add weights and everything in the files folder to your gdrive/files/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Add weights and everything in the files folder to your gdrive/files/
   
-  Run the ipynb in google colab
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Run the ipynb in google colab
   
