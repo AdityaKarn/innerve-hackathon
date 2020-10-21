@@ -28,7 +28,7 @@ Object detection is done through a standard implementation of the YOLO algorithm
   
 3. YOLO implementation
   
-  Download weights from [https://pjreddie.com/media/files/yolov3.weights](here)
+  Download weights from [here](https://pjreddie.com/media/files/yolov3.weights)
   
   Add images to your gdrive/val2017/
   
