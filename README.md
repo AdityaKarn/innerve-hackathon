@@ -16,7 +16,10 @@ Object detection is done through a standard implementation of the YOLO algorithm
 
 ### How to run?
 
-1. 
+1. OpenCV lane detection : 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Run the ipynb in colab
+
 2. CNN lane detection :
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Add validation values from dataset_labeller/val_labels to your google drive
