@@ -2,7 +2,7 @@
 
 This project is for the igdtu data science hackathon 2020
 
-## Project : Blind People Helper
+## Project : Path detection for visually impaired
 
 ### What it does?
 
