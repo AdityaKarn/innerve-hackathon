@@ -14,6 +14,27 @@ Lane detection is done through two methods:
   
 Object detection is done through a standard implementation of the YOLO algorithm.
 
+### Overview 
+
+#### Lane detection using Hough Transformation
+* Used openCV for producing a lane detector. Inherent techniques used were Canny detection and Hough transforms.
+* Used Convolutional Neural Networks to work upon the limitations of the openCV model.
+* Used the standard YOLO algorithm for the implementation of the object detectors. 
+
+#### Lane detection using CNN
+* Used a custom built openCV app to label frames of the dataset (a valid lane to go through)
+* Made a sequential CNN that learns the dataset
+* Predicts a valid path and direction to go.
+
+![example](https://raw.githubusercontent.com/AdityaKarn/innerve-hackathon/master/CNN_lane_detection/cnn1.jpg)
+
+#### Object detection using the YOLO algorithm
+* Implemented the YOLO algorithm to detect object on the streets
+* Detected various class of objects ranging from people , car and animals
+* Used a very deep Darknet-53 model to predict the same
+
+![example](https://raw.githubusercontent.com/AdityaKarn/innerve-hackathon/master/YOLO/yolo1.png)
+
 ### How to run?
 
 1. OpenCV lane detection : 
