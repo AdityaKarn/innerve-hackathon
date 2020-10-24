@@ -20,6 +20,8 @@ Object detection is done through a standard implementation of the YOLO algorithm
 * Used openCV for producing a lane detector. Inherent techniques used were Canny detection and Hough transforms.
 * Used Convolutional Neural Networks to work upon the limitations of the openCV model.
 * Used the standard YOLO algorithm for the implementation of the object detectors. 
+> You can view [harshit's repo to know more](https://github.com/TheGupta2012/RAAHI).
+
 
 #### Lane detection using CNN
 * Used a custom built openCV app to label frames of the dataset (a valid lane to go through)
